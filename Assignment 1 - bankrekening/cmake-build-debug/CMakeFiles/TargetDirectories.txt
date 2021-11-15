@@ -1,0 +1,3 @@
+C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir
+C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/rebuild_cache.dir
