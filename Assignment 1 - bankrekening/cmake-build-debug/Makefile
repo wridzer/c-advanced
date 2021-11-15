@@ -128,6 +128,78 @@ Assignment_1___bankrekening/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/build
 .PHONY : Assignment_1___bankrekening/fast
 
+Bankrekening.obj: Bankrekening.cpp.obj
+.PHONY : Bankrekening.obj
+
+# target to build an object file
+Bankrekening.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj
+.PHONY : Bankrekening.cpp.obj
+
+Bankrekening.i: Bankrekening.cpp.i
+.PHONY : Bankrekening.i
+
+# target to preprocess a source file
+Bankrekening.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.i
+.PHONY : Bankrekening.cpp.i
+
+Bankrekening.s: Bankrekening.cpp.s
+.PHONY : Bankrekening.s
+
+# target to generate assembly for a file
+Bankrekening.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.s
+.PHONY : Bankrekening.cpp.s
+
+TranactionHistory.obj: TranactionHistory.cpp.obj
+.PHONY : TranactionHistory.obj
+
+# target to build an object file
+TranactionHistory.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj
+.PHONY : TranactionHistory.cpp.obj
+
+TranactionHistory.i: TranactionHistory.cpp.i
+.PHONY : TranactionHistory.i
+
+# target to preprocess a source file
+TranactionHistory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.i
+.PHONY : TranactionHistory.cpp.i
+
+TranactionHistory.s: TranactionHistory.cpp.s
+.PHONY : TranactionHistory.s
+
+# target to generate assembly for a file
+TranactionHistory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.s
+.PHONY : TranactionHistory.cpp.s
+
+Transaction.obj: Transaction.cpp.obj
+.PHONY : Transaction.obj
+
+# target to build an object file
+Transaction.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj
+.PHONY : Transaction.cpp.obj
+
+Transaction.i: Transaction.cpp.i
+.PHONY : Transaction.i
+
+# target to preprocess a source file
+Transaction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.i
+.PHONY : Transaction.cpp.i
+
+Transaction.s: Transaction.cpp.s
+.PHONY : Transaction.s
+
+# target to generate assembly for a file
+Transaction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.s
+.PHONY : Transaction.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +233,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Assignment_1___bankrekening
+	@echo ... Bankrekening.obj
+	@echo ... Bankrekening.i
+	@echo ... Bankrekening.s
+	@echo ... TranactionHistory.obj
+	@echo ... TranactionHistory.i
+	@echo ... TranactionHistory.s
+	@echo ... Transaction.obj
+	@echo ... Transaction.i
+	@echo ... Transaction.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

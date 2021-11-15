@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Bankrekening.cpp">
+			<Option target="Assignment_1___bankrekening"/>
+		</Unit>
+		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Bankrekening.h">
+			<Option target="Assignment_1___bankrekening"/>
+		</Unit>
+		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/TranactionHistory.cpp">
+			<Option target="Assignment_1___bankrekening"/>
+		</Unit>
+		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/TranactionHistory.h">
+			<Option target="Assignment_1___bankrekening"/>
+		</Unit>
+		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Transaction.cpp">
+			<Option target="Assignment_1___bankrekening"/>
+		</Unit>
+		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Transaction.h">
+			<Option target="Assignment_1___bankrekening"/>
+		</Unit>
 		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/main.cpp">
 			<Option target="Assignment_1___bankrekening"/>
 		</Unit>
