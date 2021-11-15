@@ -5,24 +5,27 @@
 #ifndef ASSIGNMENT_1___BANKREKENING_BANKREKENING_H
 #define ASSIGNMENT_1___BANKREKENING_BANKREKENING_H
 
+#pragma  once
+#include <vector>
 #include "Transaction.h"
-#include "TranactionHistory.h"
 #include <string>
+#include <ostream>
 
 class Bankrekening {
 public:
-    Bankrekening(float _saldo);
+    Bankrekening(int const accountNumber);
     ~Bankrekening();
 
-    const int getSaldo() const;
-    const std::string getHistory() const;
+    void AddTransaction(const std::string& name, float amount);
+    const float getSaldo() const;
+    std::ostream& getHistory(std::ostream& os) const;
 
-    Bankrekening operator+(const Transaction& transaction) const;
-    Bankrekening operator-(const Transaction& transaction) const;
-    Bankrekening& operator+=(const Transaction& transaction);
+    friend std::ostream& operator<<(std::ostream& os, const Bankrekening& bankrekening);
+
 private:
-    const TranactionHistory transactionHistory;
-    float const saldo;
+    std::vector<Transaction> history;
+    float saldo = 0;
+    int accountNumber;
 };
 
 

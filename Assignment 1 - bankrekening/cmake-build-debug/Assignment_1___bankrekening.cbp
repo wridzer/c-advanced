@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Assignment_1___bankrekening">
-				<Option output="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Assignment_1___bankrekening.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
+				<Option output="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Assignment_1___bankrekening.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_1___bankrekening"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_1___bankrekening"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Assignment_1___bankrekening/fast">
-				<Option output="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Assignment_1___bankrekening.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
+				<Option output="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Assignment_1___bankrekening.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,55 +53,49 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_1___bankrekening/fast"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_1___bankrekening/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Bankrekening.cpp">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Bankrekening.cpp">
 			<Option target="Assignment_1___bankrekening"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Bankrekening.h">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Bankrekening.h">
 			<Option target="Assignment_1___bankrekening"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/TranactionHistory.cpp">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Transaction.cpp">
 			<Option target="Assignment_1___bankrekening"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/TranactionHistory.h">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Transaction.h">
 			<Option target="Assignment_1___bankrekening"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Transaction.cpp">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/main.cpp">
 			<Option target="Assignment_1___bankrekening"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Transaction.h">
-			<Option target="Assignment_1___bankrekening"/>
-		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/main.cpp">
-			<Option target="Assignment_1___bankrekening"/>
-		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/CMakeLists.txt">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

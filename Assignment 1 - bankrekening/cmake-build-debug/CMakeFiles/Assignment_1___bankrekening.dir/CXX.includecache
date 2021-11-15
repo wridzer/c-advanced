@@ -6,7 +6,21 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/main.cpp
-iostream
+C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Bankrekening.cpp
+Bankrekening.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Bankrekening.h
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Bankrekening.h
+vector
 -
+Transaction.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Transaction.h
+string
+-
+ostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Transaction.h
+string
+C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/string
 

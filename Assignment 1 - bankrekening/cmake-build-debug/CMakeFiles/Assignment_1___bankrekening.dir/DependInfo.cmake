@@ -8,10 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Bankrekening.cpp" "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj"
-  "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/TranactionHistory.cpp" "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj"
-  "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/Transaction.cpp" "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj"
-  "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/main.cpp" "C:/Users/wridz/Documents/C++ advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj"
+  "C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Bankrekening.cpp" "C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj"
+  "C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/Transaction.cpp" "C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj"
+  "C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/main.cpp" "C:/Users/Wridzer/Documents/c-advanced/Assignment 1 - bankrekening/cmake-build-debug/CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

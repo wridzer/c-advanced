@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening"
+CMAKE_SOURCE_DIR = "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -152,30 +152,6 @@ Bankrekening.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.s
 .PHONY : Bankrekening.cpp.s
 
-TranactionHistory.obj: TranactionHistory.cpp.obj
-.PHONY : TranactionHistory.obj
-
-# target to build an object file
-TranactionHistory.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj
-.PHONY : TranactionHistory.cpp.obj
-
-TranactionHistory.i: TranactionHistory.cpp.i
-.PHONY : TranactionHistory.i
-
-# target to preprocess a source file
-TranactionHistory.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.i
-.PHONY : TranactionHistory.cpp.i
-
-TranactionHistory.s: TranactionHistory.cpp.s
-.PHONY : TranactionHistory.s
-
-# target to generate assembly for a file
-TranactionHistory.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_1___bankrekening.dir\build.make CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.s
-.PHONY : TranactionHistory.cpp.s
-
 Transaction.obj: Transaction.cpp.obj
 .PHONY : Transaction.obj
 
@@ -236,9 +212,6 @@ help:
 	@echo ... Bankrekening.obj
 	@echo ... Bankrekening.i
 	@echo ... Bankrekening.s
-	@echo ... TranactionHistory.obj
-	@echo ... TranactionHistory.i
-	@echo ... TranactionHistory.s
 	@echo ... Transaction.obj
 	@echo ... Transaction.i
 	@echo ... Transaction.s

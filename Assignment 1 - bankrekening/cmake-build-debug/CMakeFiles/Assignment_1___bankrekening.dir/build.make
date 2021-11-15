@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening"
+CMAKE_SOURCE_DIR = "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Assignment_1___bankrekening.dir/depend.make
@@ -67,61 +67,47 @@ include CMakeFiles/Assignment_1___bankrekening.dir/flags.make
 
 CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj: CMakeFiles/Assignment_1___bankrekening.dir/flags.make
 CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_1___bankrekening.dir\main.cpp.obj -c "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_1___bankrekening.dir\main.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\main.cpp"
 
 CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\main.cpp" > CMakeFiles\Assignment_1___bankrekening.dir\main.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\main.cpp" > CMakeFiles\Assignment_1___bankrekening.dir\main.cpp.i
 
 CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\main.cpp" -o CMakeFiles\Assignment_1___bankrekening.dir\main.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\main.cpp" -o CMakeFiles\Assignment_1___bankrekening.dir\main.cpp.s
 
 CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj: CMakeFiles/Assignment_1___bankrekening.dir/flags.make
 CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj: ../Bankrekening.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_1___bankrekening.dir\Bankrekening.cpp.obj -c "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\Bankrekening.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_1___bankrekening.dir\Bankrekening.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\Bankrekening.cpp"
 
 CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\Bankrekening.cpp" > CMakeFiles\Assignment_1___bankrekening.dir\Bankrekening.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\Bankrekening.cpp" > CMakeFiles\Assignment_1___bankrekening.dir\Bankrekening.cpp.i
 
 CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\Bankrekening.cpp" -o CMakeFiles\Assignment_1___bankrekening.dir\Bankrekening.cpp.s
-
-CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj: CMakeFiles/Assignment_1___bankrekening.dir/flags.make
-CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj: ../TranactionHistory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_1___bankrekening.dir\TranactionHistory.cpp.obj -c "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\TranactionHistory.cpp"
-
-CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\TranactionHistory.cpp" > CMakeFiles\Assignment_1___bankrekening.dir\TranactionHistory.cpp.i
-
-CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\TranactionHistory.cpp" -o CMakeFiles\Assignment_1___bankrekening.dir\TranactionHistory.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\Bankrekening.cpp" -o CMakeFiles\Assignment_1___bankrekening.dir\Bankrekening.cpp.s
 
 CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj: CMakeFiles/Assignment_1___bankrekening.dir/flags.make
 CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj: ../Transaction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_1___bankrekening.dir\Transaction.cpp.obj -c "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\Transaction.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_1___bankrekening.dir\Transaction.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\Transaction.cpp"
 
 CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\Transaction.cpp" > CMakeFiles\Assignment_1___bankrekening.dir\Transaction.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\Transaction.cpp" > CMakeFiles\Assignment_1___bankrekening.dir\Transaction.cpp.i
 
 CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\Transaction.cpp" -o CMakeFiles\Assignment_1___bankrekening.dir\Transaction.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\Transaction.cpp" -o CMakeFiles\Assignment_1___bankrekening.dir\Transaction.cpp.s
 
 # Object files for target Assignment_1___bankrekening
 Assignment_1___bankrekening_OBJECTS = \
 "CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj" \
 "CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj" \
-"CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj" \
 "CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj"
 
 # External object files for target Assignment_1___bankrekening
@@ -129,13 +115,12 @@ Assignment_1___bankrekening_EXTERNAL_OBJECTS =
 
 Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/main.cpp.obj
 Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/Bankrekening.cpp.obj
-Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/TranactionHistory.cpp.obj
 Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/Transaction.cpp.obj
 Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/build.make
 Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/linklibs.rsp
 Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/objects1.rsp
 Assignment_1___bankrekening.exe: CMakeFiles/Assignment_1___bankrekening.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Assignment_1___bankrekening.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Assignment_1___bankrekening.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Assignment_1___bankrekening.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -147,6 +132,6 @@ CMakeFiles/Assignment_1___bankrekening.dir/clean:
 .PHONY : CMakeFiles/Assignment_1___bankrekening.dir/clean
 
 CMakeFiles/Assignment_1___bankrekening.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening" "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening" "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug" "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug" "C:\Users\wridz\Documents\C++ advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles\Assignment_1___bankrekening.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening" "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening" "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug" "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug" "C:\Users\Wridzer\Documents\c-advanced\Assignment 1 - bankrekening\cmake-build-debug\CMakeFiles\Assignment_1___bankrekening.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Assignment_1___bankrekening.dir/depend
 

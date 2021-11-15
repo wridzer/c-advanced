@@ -4,25 +4,36 @@
 
 #include "Bankrekening.h"
 
-Bankrekening::Bankrekening(float const _saldo) {
-    TranactionHistory* transactionHistory = new TranactionHistory();
-    this -> saldo = _saldo;
+Bankrekening::Bankrekening(int const accountNumber) {
+    this -> accountNumber = accountNumber;
 }
 
 Bankrekening::~Bankrekening() {
 
 }
 
-const int Bankrekening::getSaldo() const {
-
+void Bankrekening::AddTransaction(const std::string &name, float amount) {
+    history.push_back(Transaction(name, amount));
+    saldo = saldo + amount;
 }
 
-const std::string Bankrekening::getHistory() const {
-
+const float Bankrekening::getSaldo() const {
+    return saldo;
 }
 
-Bankrekening Bankrekening::operator+(const Transaction &transaction) const {
-    //TranactionHistory += transaction;
-    saldo = saldo + transaction.amount;
+std::ostream& Bankrekening::getHistory(std::ostream& os) const {
+    string historyOutput;
+    for (int i = 0; i < history.size(); ++i) {
+        os << history[i].getName()
+           << " : " << history[i].getAmount()
+           << std::endl;
+    }
+    return os;
+}
 
+std::ostream& operator<<(std::ostream& os, const Bankrekening& bankrekening) {
+    bankrekening.getHistory(os);
+    os  << " SALDO = " << bankrekening.saldo
+        << std::endl;
+    return os;
 }
