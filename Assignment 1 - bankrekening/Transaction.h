@@ -5,11 +5,17 @@
 #ifndef ASSIGNMENT_1___BANKREKENING_TRANSACTION_H
 #define ASSIGNMENT_1___BANKREKENING_TRANSACTION_H
 
+#include "string"
+
+using namespace std;
 
 class Transaction {
 public:
     Transaction();
     ~Transaction();
+
+    float amount;
+    string date;
 };
 
 

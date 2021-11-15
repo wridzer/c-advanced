@@ -6,20 +6,23 @@
 #define ASSIGNMENT_1___BANKREKENING_BANKREKENING_H
 
 #include "Transaction.h"
-
+#include "TranactionHistory.h"
+#include <string>
 
 class Bankrekening {
 public:
-    Bankrekening();
+    Bankrekening(float _saldo);
     ~Bankrekening();
 
-    
+    const int getSaldo() const;
+    const std::string getHistory() const;
 
     Bankrekening operator+(const Transaction& transaction) const;
     Bankrekening operator-(const Transaction& transaction) const;
     Bankrekening& operator+=(const Transaction& transaction);
 private:
-
+    const TranactionHistory transactionHistory;
+    float const saldo;
 };
 
 
