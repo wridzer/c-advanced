@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Decorator.h
+NPC.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/NPC.h
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Elf.h
+NPC.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/NPC.h
+iostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/FarmerDecorator.h
+Decorator.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Decorator.h
+iostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/NPC.h
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Orc.h
+NPC.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/NPC.h
+iostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/ShamanDecorator.h
+Decorator.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Decorator.h
+iostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/SoldierDecorator.h
+Decorator.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Decorator.h
+iostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/main.cpp
+iostream
+-
+NPC.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/NPC.h
+Orc.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Orc.h
+Elf.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Elf.h
+FarmerDecorator.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/FarmerDecorator.h
+ShamanDecorator.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/ShamanDecorator.h
+SoldierDecorator.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/SoldierDecorator.h
+
