@@ -128,6 +128,174 @@ Assignment_2___decorator_pattern/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/build
 .PHONY : Assignment_2___decorator_pattern/fast
 
+Decorator.obj: Decorator.cpp.obj
+.PHONY : Decorator.obj
+
+# target to build an object file
+Decorator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.obj
+.PHONY : Decorator.cpp.obj
+
+Decorator.i: Decorator.cpp.i
+.PHONY : Decorator.i
+
+# target to preprocess a source file
+Decorator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.i
+.PHONY : Decorator.cpp.i
+
+Decorator.s: Decorator.cpp.s
+.PHONY : Decorator.s
+
+# target to generate assembly for a file
+Decorator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.s
+.PHONY : Decorator.cpp.s
+
+Elf.obj: Elf.cpp.obj
+.PHONY : Elf.obj
+
+# target to build an object file
+Elf.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.obj
+.PHONY : Elf.cpp.obj
+
+Elf.i: Elf.cpp.i
+.PHONY : Elf.i
+
+# target to preprocess a source file
+Elf.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.i
+.PHONY : Elf.cpp.i
+
+Elf.s: Elf.cpp.s
+.PHONY : Elf.s
+
+# target to generate assembly for a file
+Elf.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.s
+.PHONY : Elf.cpp.s
+
+FarmerDecorator.obj: FarmerDecorator.cpp.obj
+.PHONY : FarmerDecorator.obj
+
+# target to build an object file
+FarmerDecorator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.obj
+.PHONY : FarmerDecorator.cpp.obj
+
+FarmerDecorator.i: FarmerDecorator.cpp.i
+.PHONY : FarmerDecorator.i
+
+# target to preprocess a source file
+FarmerDecorator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.i
+.PHONY : FarmerDecorator.cpp.i
+
+FarmerDecorator.s: FarmerDecorator.cpp.s
+.PHONY : FarmerDecorator.s
+
+# target to generate assembly for a file
+FarmerDecorator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.s
+.PHONY : FarmerDecorator.cpp.s
+
+NPC.obj: NPC.cpp.obj
+.PHONY : NPC.obj
+
+# target to build an object file
+NPC.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.obj
+.PHONY : NPC.cpp.obj
+
+NPC.i: NPC.cpp.i
+.PHONY : NPC.i
+
+# target to preprocess a source file
+NPC.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.i
+.PHONY : NPC.cpp.i
+
+NPC.s: NPC.cpp.s
+.PHONY : NPC.s
+
+# target to generate assembly for a file
+NPC.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.s
+.PHONY : NPC.cpp.s
+
+Orc.obj: Orc.cpp.obj
+.PHONY : Orc.obj
+
+# target to build an object file
+Orc.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.obj
+.PHONY : Orc.cpp.obj
+
+Orc.i: Orc.cpp.i
+.PHONY : Orc.i
+
+# target to preprocess a source file
+Orc.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.i
+.PHONY : Orc.cpp.i
+
+Orc.s: Orc.cpp.s
+.PHONY : Orc.s
+
+# target to generate assembly for a file
+Orc.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.s
+.PHONY : Orc.cpp.s
+
+ShamanDecorator.obj: ShamanDecorator.cpp.obj
+.PHONY : ShamanDecorator.obj
+
+# target to build an object file
+ShamanDecorator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.obj
+.PHONY : ShamanDecorator.cpp.obj
+
+ShamanDecorator.i: ShamanDecorator.cpp.i
+.PHONY : ShamanDecorator.i
+
+# target to preprocess a source file
+ShamanDecorator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.i
+.PHONY : ShamanDecorator.cpp.i
+
+ShamanDecorator.s: ShamanDecorator.cpp.s
+.PHONY : ShamanDecorator.s
+
+# target to generate assembly for a file
+ShamanDecorator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.s
+.PHONY : ShamanDecorator.cpp.s
+
+SoldierDecorator.obj: SoldierDecorator.cpp.obj
+.PHONY : SoldierDecorator.obj
+
+# target to build an object file
+SoldierDecorator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.obj
+.PHONY : SoldierDecorator.cpp.obj
+
+SoldierDecorator.i: SoldierDecorator.cpp.i
+.PHONY : SoldierDecorator.i
+
+# target to preprocess a source file
+SoldierDecorator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.i
+.PHONY : SoldierDecorator.cpp.i
+
+SoldierDecorator.s: SoldierDecorator.cpp.s
+.PHONY : SoldierDecorator.s
+
+# target to generate assembly for a file
+SoldierDecorator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Assignment_2___decorator_pattern.dir\build.make CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.s
+.PHONY : SoldierDecorator.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +329,27 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Assignment_2___decorator_pattern
+	@echo ... Decorator.obj
+	@echo ... Decorator.i
+	@echo ... Decorator.s
+	@echo ... Elf.obj
+	@echo ... Elf.i
+	@echo ... Elf.s
+	@echo ... FarmerDecorator.obj
+	@echo ... FarmerDecorator.i
+	@echo ... FarmerDecorator.s
+	@echo ... NPC.obj
+	@echo ... NPC.i
+	@echo ... NPC.s
+	@echo ... Orc.obj
+	@echo ... Orc.i
+	@echo ... Orc.s
+	@echo ... ShamanDecorator.obj
+	@echo ... ShamanDecorator.i
+	@echo ... ShamanDecorator.s
+	@echo ... SoldierDecorator.obj
+	@echo ... SoldierDecorator.i
+	@echo ... SoldierDecorator.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

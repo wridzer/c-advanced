@@ -78,19 +78,124 @@ CMakeFiles/Assignment_2___decorator_pattern.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/main.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\main.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\main.cpp.s
 
+CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.obj: CMakeFiles/Assignment_2___decorator_pattern.dir/flags.make
+CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.obj: ../NPC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_2___decorator_pattern.dir\NPC.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\NPC.cpp"
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\NPC.cpp" > CMakeFiles\Assignment_2___decorator_pattern.dir\NPC.cpp.i
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\NPC.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\NPC.cpp.s
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.obj: CMakeFiles/Assignment_2___decorator_pattern.dir/flags.make
+CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.obj: ../Orc.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_2___decorator_pattern.dir\Orc.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Orc.cpp"
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Orc.cpp" > CMakeFiles\Assignment_2___decorator_pattern.dir\Orc.cpp.i
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Orc.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\Orc.cpp.s
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.obj: CMakeFiles/Assignment_2___decorator_pattern.dir/flags.make
+CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.obj: ../Elf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_2___decorator_pattern.dir\Elf.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Elf.cpp"
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Elf.cpp" > CMakeFiles\Assignment_2___decorator_pattern.dir\Elf.cpp.i
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Elf.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\Elf.cpp.s
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.obj: CMakeFiles/Assignment_2___decorator_pattern.dir/flags.make
+CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.obj: ../FarmerDecorator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_2___decorator_pattern.dir\FarmerDecorator.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\FarmerDecorator.cpp"
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\FarmerDecorator.cpp" > CMakeFiles\Assignment_2___decorator_pattern.dir\FarmerDecorator.cpp.i
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\FarmerDecorator.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\FarmerDecorator.cpp.s
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.obj: CMakeFiles/Assignment_2___decorator_pattern.dir/flags.make
+CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.obj: ../SoldierDecorator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_2___decorator_pattern.dir\SoldierDecorator.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\SoldierDecorator.cpp"
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\SoldierDecorator.cpp" > CMakeFiles\Assignment_2___decorator_pattern.dir\SoldierDecorator.cpp.i
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\SoldierDecorator.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\SoldierDecorator.cpp.s
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.obj: CMakeFiles/Assignment_2___decorator_pattern.dir/flags.make
+CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.obj: ../ShamanDecorator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_2___decorator_pattern.dir\ShamanDecorator.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\ShamanDecorator.cpp"
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\ShamanDecorator.cpp" > CMakeFiles\Assignment_2___decorator_pattern.dir\ShamanDecorator.cpp.i
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\ShamanDecorator.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\ShamanDecorator.cpp.s
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.obj: CMakeFiles/Assignment_2___decorator_pattern.dir/flags.make
+CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.obj: ../Decorator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_2___decorator_pattern.dir\Decorator.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Decorator.cpp"
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Decorator.cpp" > CMakeFiles\Assignment_2___decorator_pattern.dir\Decorator.cpp.i
+
+CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\Decorator.cpp" -o CMakeFiles\Assignment_2___decorator_pattern.dir\Decorator.cpp.s
+
 # Object files for target Assignment_2___decorator_pattern
 Assignment_2___decorator_pattern_OBJECTS = \
-"CMakeFiles/Assignment_2___decorator_pattern.dir/main.cpp.obj"
+"CMakeFiles/Assignment_2___decorator_pattern.dir/main.cpp.obj" \
+"CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.obj" \
+"CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.obj" \
+"CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.obj" \
+"CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.obj" \
+"CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.obj" \
+"CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.obj" \
+"CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.obj"
 
 # External object files for target Assignment_2___decorator_pattern
 Assignment_2___decorator_pattern_EXTERNAL_OBJECTS =
 
 Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/main.cpp.obj
+Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/NPC.cpp.obj
+Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/Orc.cpp.obj
+Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/Elf.cpp.obj
+Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/FarmerDecorator.cpp.obj
+Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/SoldierDecorator.cpp.obj
+Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/ShamanDecorator.cpp.obj
+Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/Decorator.cpp.obj
 Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/build.make
 Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/linklibs.rsp
 Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/objects1.rsp
 Assignment_2___decorator_pattern.exe: CMakeFiles/Assignment_2___decorator_pattern.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Assignment_2___decorator_pattern.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 2 - decorator pattern\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Assignment_2___decorator_pattern.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Assignment_2___decorator_pattern.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

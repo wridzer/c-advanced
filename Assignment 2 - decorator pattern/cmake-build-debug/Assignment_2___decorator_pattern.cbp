@@ -80,6 +80,48 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Decorator.cpp">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Decorator.h">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Elf.cpp">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Elf.h">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/FarmerDecorator.cpp">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/FarmerDecorator.h">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/NPC.cpp">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/NPC.h">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Orc.cpp">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/Orc.h">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/ShamanDecorator.cpp">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/ShamanDecorator.h">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/SoldierDecorator.cpp">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/SoldierDecorator.h">
+			<Option target="Assignment_2___decorator_pattern"/>
+		</Unit>
 		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 2 - decorator pattern/main.cpp">
 			<Option target="Assignment_2___decorator_pattern"/>
 		</Unit>
