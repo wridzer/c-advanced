@@ -1,0 +1,3 @@
+C:/Users/Wridzer/Documents/c-advanced/Assignment 4 - STL/cmake-build-debug/CMakeFiles/Assignment_4___STL.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 4 - STL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 4 - STL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
