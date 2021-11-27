@@ -1,0 +1,3 @@
+C:/Users/Wridzer/Documents/c-advanced/Assignment 3 - Templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 3 - Templates/cmake-build-debug/CMakeFiles/Assignment_3___Templates.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 3 - Templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir

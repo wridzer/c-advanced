@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 3 - Templates/Queue.h
+string
+-
+vector
+-
+iostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 3 - Templates/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+array
+-
+Queue.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 3 - Templates/Queue.h
+
