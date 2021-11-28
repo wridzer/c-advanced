@@ -8,23 +8,23 @@
 		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Assignment_5___Game_of_Life">
-				<Option output="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Assignment_5___Game_of_Life.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
+				<Option output="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Assignment_5___Game_of_Life.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/headers"/>
+					<Add directory="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/headers"/>
 					<Add directory="C:/SFML/include"/>
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
@@ -34,20 +34,20 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_5___Game_of_Life"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_5___Game_of_Life"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Assignment_5___Game_of_Life/fast">
-				<Option output="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Assignment_5___Game_of_Life.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
+				<Option output="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Assignment_5___Game_of_Life.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/headers"/>
+					<Add directory="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/headers"/>
 					<Add directory="C:/SFML/include"/>
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
@@ -57,52 +57,52 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_5___Game_of_Life/fast"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_5___Game_of_Life/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/Cell.cpp">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/Cell.cpp">
 			<Option target="Assignment_5___Game_of_Life"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/Cell.h">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/Cell.h">
 			<Option target="Assignment_5___Game_of_Life"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/Vector2.cpp">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/Vector2.cpp">
 			<Option target="Assignment_5___Game_of_Life"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/Vector2.h">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/Vector2.h">
 			<Option target="Assignment_5___Game_of_Life"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/main.cpp">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/main.cpp">
 			<Option target="Assignment_5___Game_of_Life"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/CMakeLists.txt">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake_modules/FindSFML.cmake">
+		<Unit filename="C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake_modules/FindSFML.cmake">
 			<Option virtualFolder="CMake Files\cmake_modules\"/>
 		</Unit>
 	</Project>

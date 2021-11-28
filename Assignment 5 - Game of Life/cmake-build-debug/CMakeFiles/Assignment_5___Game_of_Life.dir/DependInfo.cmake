@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/Cell.cpp" "C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.obj"
-  "C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/Vector2.cpp" "C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.obj"
-  "C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/main.cpp" "C:/Users/wridz/Documents/C++ advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.obj"
+  "C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/Cell.cpp" "C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.obj"
+  "C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/Vector2.cpp" "C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.obj"
+  "C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/main.cpp" "C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

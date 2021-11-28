@@ -61,6 +61,22 @@ bool Vector2::operator>(const int& i) {
     }
 }
 
+bool Vector2::operator==(const Vector2& i) {
+    if(i.x == x && i.y == y){
+        return true;
+    }else{
+        return false;
+    }
+}
+
+bool Vector2::operator!=(const Vector2& i) {
+    if(i.x == x && i.y == y){
+        return false;
+    }else{
+        return true;
+    }
+}
+
 float Vector2::Magnitude() {
     float Mx = beginX - x;
     float My = beginY - y;

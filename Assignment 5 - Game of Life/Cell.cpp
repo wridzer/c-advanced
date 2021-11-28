@@ -11,10 +11,19 @@ Cell::~Cell() {
 
 }
 
-sf::Shape Cell::Draw(int size) {
-    sf::RectangleShape shape = new sf::;
-
-
+sf::RectangleShape Cell::Draw(int size) {
+    sf::Vector2f cellSize(size, size);
+    sf::RectangleShape shape(cellSize);
+    Vector2 drawPosition = position * size;
+    shape.setPosition(drawPosition.GetX(), drawPosition.GetY());
+    shape.setFillColor(GetColour());
     return shape;
 }
 
+sf::Color Cell::GetColour() {
+    if(isAlive){
+        return sf::Color::Red;
+    }else{
+        return sf::Color::White;
+    }
+}

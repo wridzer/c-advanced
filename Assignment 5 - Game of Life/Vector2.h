@@ -14,6 +14,8 @@ public:
     Vector2& operator/(const int& i);
     bool operator<(const int& i);
     bool operator>(const int& i);
+    bool operator==(const Vector2& i);
+    bool operator!=(const Vector2& i);
     Vector2& operator+(const Vector2& v2);
     Vector2& operator-(const Vector2& v2);
 

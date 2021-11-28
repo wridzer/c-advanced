@@ -12,8 +12,10 @@ class Cell {
 public:
     Cell();
     ~Cell();
-    sf::Shape Draw(int size);
+    sf::RectangleShape Draw(int size);
     Vector2 position = Vector2(0, 0);
+    sf::Color GetColour();
+    bool isAlive = false;
 
 private:
 };
