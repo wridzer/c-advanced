@@ -57,6 +57,15 @@ int main() {
     {
         std::vector<double> numbers{10, 324422, 6, -23, 234.5, 654.1, 3.1242, -9.23, 635};
         // 2) voor alle elementen te bepalen of ze even of oneven zijn
+        for (auto a : numbers) {
+            int i = (int)a;
+            if (i % 2 != 0){
+                std::remove(numbers.begin(), numbers.end(), a);
+            }
+        }
+        for (auto a : numbers){
+            std::cout << a << std::endl;
+        }
     }
 
     {
