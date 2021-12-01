@@ -1,6 +1,5 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
-#include <list>
 #include "Cell.h"
 #include <vector>
 
@@ -21,15 +20,15 @@ Vector2 bot(0, -1);
 Vector2 botRight(1, -1);
 Vector2 directions[8] = {upLeft, up, upRight, midLeft, midRight, botLeft, bot, botRight};
 
-void CheckNeighbours(Cell cell){
-
+void CheckNeighbours(Cell c){
     vector<Cell> neighbours;
     int amountAlive;
 
     for (auto d : directions) {
         for(auto c : grid){
-            if(cell.position + d == c.position){
+            if(c.position + d == c.position){
                 neighbours.push_back(c);
+                cout << "found neighbour" << endl;
             }
         }
     }
@@ -39,14 +38,13 @@ void CheckNeighbours(Cell cell){
         }
     }
 
-    if(cell.isAlive){
+    if(c.isAlive){
         if(amountAlive < 2 || amountAlive > 3){
-            cell.isAlive = false;
-            cout << "now I'm dead" << endl;
+            c.isAlive = false;
         }
     } else {
         if (amountAlive == 3){
-            cell.isAlive = true;
+            c.isAlive = true;
             cout << "I LIVE" << endl;
         }
     }
@@ -59,13 +57,12 @@ int main() {
     }
 
     sf::RenderWindow window(sf::VideoMode(1200, 1000), "Game of Life");
+    window.setFramerateLimit(60);
+    for (int i = 0; i < numberOfCells / 2; ++i) {
+        int r = rand() % numberOfCells;
+        grid[r].isAlive = true;
+    }
 
-    grid[60].isAlive = true;
-    grid[156].isAlive = true;
-    grid[450].isAlive = true;
-    grid[3].isAlive = true;
-    grid[0].isAlive = true;
-    grid[624].isAlive = true;
 
     for (int i = 0; i < numberOfCells; ++i) {
         grid[i].position = new Vector2( i % 25, (int)(i)/25);
@@ -85,13 +82,17 @@ int main() {
         }
 
         for(auto c : grid){
-            CheckNeighbours(c);
+            //CheckNeighbours(c);
             window.draw(c.Draw(cellSize));
         }
 
         window.display();
         window.clear();
 
+    }
+
+    for (auto c : grid) {
+        c.~Cell();
     }
 
     return 0;

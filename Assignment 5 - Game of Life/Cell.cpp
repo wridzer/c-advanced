@@ -2,6 +2,7 @@
 // Created by wridz on 24/11/2021.
 //
 
+#include <iostream>
 #include "Cell.h"
 
 Cell::Cell() {
