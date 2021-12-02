@@ -10,14 +10,16 @@ public:
     Vector2(float Tx, float Ty);
     Vector2(Vector2* v2);
     ~Vector2();
-    Vector2& operator*(const int& i);
-    Vector2& operator/(const int& i);
+    Vector2 operator*(const int& i) const;
+    Vector2 operator/(const int& i) const;
     bool operator<(const int& i);
     bool operator>(const int& i);
     bool operator==(const Vector2& i);
     bool operator!=(const Vector2& i);
-    Vector2& operator+(const Vector2& v2);
-    Vector2& operator-(const Vector2& v2);
+    Vector2& operator+=(const Vector2& v2);
+    Vector2& operator-=(const Vector2& v2);
+    Vector2 operator+(const Vector2& v2) const;
+    Vector2 operator-(const Vector2& v2) const;
 
     float GetX();
     float GetY();

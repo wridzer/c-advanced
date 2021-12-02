@@ -1,3 +1,3 @@
-C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir
-C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Wridzer/Documents/c-advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/wridz/Documents/c advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/Assignment_5___Game_of_Life.dir
+C:/Users/wridz/Documents/c advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wridz/Documents/c advanced/Assignment 5 - Game of Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir

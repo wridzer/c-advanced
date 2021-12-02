@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int cellSize = 30;
+int cellSize = 32;
 int numberOfCells = 625;
 vector<Cell> grid;
 
@@ -20,34 +20,33 @@ Vector2 bot(0, -1);
 Vector2 botRight(1, -1);
 Vector2 directions[8] = {upLeft, up, upRight, midLeft, midRight, botLeft, bot, botRight};
 
-void CheckNeighbours(Cell c){
+void CheckNeighbours(Cell& cell){
     vector<Cell> neighbours;
     int amountAlive;
 
-    for (auto d : directions) {
-        for(auto c : grid){
-            if(c.position + d == c.position){
+    for (auto& d : directions) {
+        for(auto& c : grid){
+            if(cell.position + d == c.position){
                 neighbours.push_back(c);
-                cout << "found neighbour" << endl;
             }
         }
     }
-    for(auto n : neighbours){
+    for(auto& n : neighbours){
         if(n.isAlive){
             amountAlive++;
         }
     }
 
-    if(c.isAlive){
+    if(cell.isAlive){
         if(amountAlive < 2 || amountAlive > 3){
-            c.isAlive = false;
+            cell.isAlive = false;
         }
     } else {
         if (amountAlive == 3){
-            c.isAlive = true;
-            cout << "I LIVE" << endl;
+            cell.isAlive = true;
         }
     }
+
 }
 
 int main() {
@@ -56,9 +55,10 @@ int main() {
         grid.push_back(cell);
     }
 
-    sf::RenderWindow window(sf::VideoMode(1200, 1000), "Game of Life");
+    sf::RenderWindow window(sf::VideoMode(800, 800), "Game of Life");
     window.setFramerateLimit(60);
-    for (int i = 0; i < numberOfCells / 2; ++i) {
+
+    for (int i = 0; i < numberOfCells / 4; ++i) {
         int r = rand() % numberOfCells;
         grid[r].isAlive = true;
     }
@@ -81,18 +81,14 @@ int main() {
             }
         }
 
-        for(auto c : grid){
-            //CheckNeighbours(c);
+        for(auto& c : grid){
+            CheckNeighbours(c);
             window.draw(c.Draw(cellSize));
         }
 
         window.display();
         window.clear();
 
-    }
-
-    for (auto c : grid) {
-        c.~Cell();
     }
 
     return 0;

@@ -22,27 +22,43 @@ Vector2::~Vector2() {
 
 }
 
-Vector2& Vector2::operator*(const int& i) {
-    x = x * i;
-    y = y * i;
-    return *this;
+Vector2 Vector2::operator*(const int& i) const {
+    Vector2 newVector = new Vector2(0, 0);
+    newVector.x = x * i;
+    newVector.y = y * i;
+    return newVector;
 }
-Vector2& Vector2::operator/(const int& i) {
-    x = x / i;
-    y = y / i;
-    return *this;
+Vector2 Vector2::operator/(const int& i) const {
+    Vector2 newVector = new Vector2(0, 0);
+    newVector.x = x - i;
+    newVector.y = y - i;
+    return newVector;
 }
 
-Vector2& Vector2::operator+(const Vector2& v2) {
+Vector2& Vector2::operator+=(const Vector2& v2) {
     x = x + v2.x;
     y = y + v2.y;
     return *this;
 }
 
-Vector2& Vector2::operator-(const Vector2& v2) {
+Vector2& Vector2::operator-=(const Vector2& v2) {
     x = x - v2.x;
     y = y - v2.y;
     return *this;
+}
+
+Vector2 Vector2::operator+(const Vector2& v2) const {
+    Vector2 newVector = new Vector2(0, 0);
+    newVector.x = x + v2.x;
+    newVector.y = y + v2.y;
+    return newVector;
+}
+
+Vector2 Vector2::operator-(const Vector2& v2) const {
+    Vector2 newVector = new Vector2(0, 0);
+    newVector.x = x - v2.x;
+    newVector.y = y - v2.y;
+    return newVector;
 }
 
 bool Vector2::operator<(const int& i) {

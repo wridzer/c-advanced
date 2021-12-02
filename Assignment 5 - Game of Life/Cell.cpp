@@ -5,7 +5,9 @@
 #include <iostream>
 #include "Cell.h"
 
-Cell::Cell() {
+Cell::Cell()
+: position(0, 0), isAlive(false)
+{
 }
 
 Cell::~Cell() {

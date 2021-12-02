@@ -13,9 +13,9 @@ public:
     Cell();
     ~Cell();
     sf::RectangleShape Draw(int size);
-    Vector2 position = Vector2(0, 0);
+    Vector2 position;
     sf::Color GetColour();
-    bool isAlive = false;
+    bool isAlive;
 
 private:
 };

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life"
+CMAKE_SOURCE_DIR = "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Assignment_5___Game_of_Life.dir/depend.make
@@ -68,44 +68,44 @@ include CMakeFiles/Assignment_5___Game_of_Life.dir/flags.make
 CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.obj: CMakeFiles/Assignment_5___Game_of_Life.dir/flags.make
 CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.obj: CMakeFiles/Assignment_5___Game_of_Life.dir/includes_CXX.rsp
 CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_5___Game_of_Life.dir\main.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_5___Game_of_Life.dir\main.cpp.obj -c "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\main.cpp"
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\main.cpp" > CMakeFiles\Assignment_5___Game_of_Life.dir\main.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\main.cpp" > CMakeFiles\Assignment_5___Game_of_Life.dir\main.cpp.i
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_5___Game_of_Life.dir/main.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\main.cpp" -o CMakeFiles\Assignment_5___Game_of_Life.dir\main.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\main.cpp" -o CMakeFiles\Assignment_5___Game_of_Life.dir\main.cpp.s
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.obj: CMakeFiles/Assignment_5___Game_of_Life.dir/flags.make
 CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.obj: CMakeFiles/Assignment_5___Game_of_Life.dir/includes_CXX.rsp
 CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.obj: ../Cell.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_5___Game_of_Life.dir\Cell.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\Cell.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_5___Game_of_Life.dir\Cell.cpp.obj -c "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\Cell.cpp"
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\Cell.cpp" > CMakeFiles\Assignment_5___Game_of_Life.dir\Cell.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\Cell.cpp" > CMakeFiles\Assignment_5___Game_of_Life.dir\Cell.cpp.i
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_5___Game_of_Life.dir/Cell.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\Cell.cpp" -o CMakeFiles\Assignment_5___Game_of_Life.dir\Cell.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\Cell.cpp" -o CMakeFiles\Assignment_5___Game_of_Life.dir\Cell.cpp.s
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.obj: CMakeFiles/Assignment_5___Game_of_Life.dir/flags.make
 CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.obj: CMakeFiles/Assignment_5___Game_of_Life.dir/includes_CXX.rsp
 CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.obj: ../Vector2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_5___Game_of_Life.dir\Vector2.cpp.obj -c "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\Vector2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Assignment_5___Game_of_Life.dir\Vector2.cpp.obj -c "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\Vector2.cpp"
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\Vector2.cpp" > CMakeFiles\Assignment_5___Game_of_Life.dir\Vector2.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\Vector2.cpp" > CMakeFiles\Assignment_5___Game_of_Life.dir\Vector2.cpp.i
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_5___Game_of_Life.dir/Vector2.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\Vector2.cpp" -o CMakeFiles\Assignment_5___Game_of_Life.dir\Vector2.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\Vector2.cpp" -o CMakeFiles\Assignment_5___Game_of_Life.dir\Vector2.cpp.s
 
 # Object files for target Assignment_5___Game_of_Life
 Assignment_5___Game_of_Life_OBJECTS = \
@@ -128,7 +128,7 @@ Assignment_5___Game_of_Life.exe: C:/SFML/lib/libsfml-audio-d.a
 Assignment_5___Game_of_Life.exe: CMakeFiles/Assignment_5___Game_of_Life.dir/linklibs.rsp
 Assignment_5___Game_of_Life.exe: CMakeFiles/Assignment_5___Game_of_Life.dir/objects1.rsp
 Assignment_5___Game_of_Life.exe: CMakeFiles/Assignment_5___Game_of_Life.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Assignment_5___Game_of_Life.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Assignment_5___Game_of_Life.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Assignment_5___Game_of_Life.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -140,6 +140,6 @@ CMakeFiles/Assignment_5___Game_of_Life.dir/clean:
 .PHONY : CMakeFiles/Assignment_5___Game_of_Life.dir/clean
 
 CMakeFiles/Assignment_5___Game_of_Life.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life" "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life" "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug" "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug" "C:\Users\Wridzer\Documents\c-advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles\Assignment_5___Game_of_Life.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life" "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life" "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug" "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug" "C:\Users\wridz\Documents\c advanced\Assignment 5 - Game of Life\cmake-build-debug\CMakeFiles\Assignment_5___Game_of_Life.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Assignment_5___Game_of_Life.dir/depend
 
