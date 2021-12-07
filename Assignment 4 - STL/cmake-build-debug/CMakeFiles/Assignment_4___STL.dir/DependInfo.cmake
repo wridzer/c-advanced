@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Wridzer/Documents/c-advanced/Assignment 4 - STL/main.cpp" "C:/Users/Wridzer/Documents/c-advanced/Assignment 4 - STL/cmake-build-debug/CMakeFiles/Assignment_4___STL.dir/main.cpp.obj"
+  "C:/Users/wridz/Documents/c advanced/Assignment 4 - STL/main.cpp" "C:/Users/wridz/Documents/c advanced/Assignment 4 - STL/cmake-build-debug/CMakeFiles/Assignment_4___STL.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

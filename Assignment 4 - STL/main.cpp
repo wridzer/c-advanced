@@ -10,19 +10,8 @@ int main() {
     std::vector<std::string> colours{"red", "green", "white", "blue", "orange", "green", "orange", "black", "purple"};
     // gebruik functies uit <algorithm> en <functional> om (steeds vanuit een ORIGINELE copie van deze vector)
     // 1) de vector in 2 nieuwe vectoren te splitsen: 1 met alles wat alfabetisch voor 'purple' komt, 1 met alles er na
-    /*for (int i = 0; i < colours.size(); i++) {
-        if (colours[i] == "purple"){
-            iterator = i;
-        }
-    }
-    std::vector<int> split_lo(colours.begin(), colours.begin() + iterator);
-    std::vector<int> split_hi(colours.begin() + iterator, colours.end());
-    for (auto a : split_lo) {
-        std::cout << a << std::endl;
-    }
-    for (auto a : split_hi) {
-        std::cout << a << std::endl;
-    }*/
+    std::sort(colours.begin(), colours.end());
+
 
     {
         std::vector<std::string> colours{"red", "green", "white", "blue", "orange", "green", "orange", "black", "purple"};
