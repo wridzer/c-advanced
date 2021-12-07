@@ -1,9 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <set>
 #include <string>
 #include <algorithm>
-#include <functional>
 #include <numeric>
 
 int main() {
@@ -11,7 +9,20 @@ int main() {
     // gebruik functies uit <algorithm> en <functional> om (steeds vanuit een ORIGINELE copie van deze vector)
     // 1) de vector in 2 nieuwe vectoren te splitsen: 1 met alles wat alfabetisch voor 'purple' komt, 1 met alles er na
     std::sort(colours.begin(), colours.end());
-
+    std::size_t untilPurple = 0;
+    for (int i = 0; i < colours.size(); ++i) {
+        untilPurple = i;
+    }
+    std::vector<int> split_lo(colours.begin(), colours.begin() + untilPurple);
+    std::vector<int> split_hi(colours.begin() + untilPurple, colours.end());
+    std::cout << "all before purple" << std::endl;
+    for (auto a : split_lo) {
+        std::cout << a << std::endl;
+    }
+    std::cout << "all after purple" << std::endl;
+    for (auto a : split_hi) {
+        std::cout << a << std::endl;
+    }
 
     {
         std::vector<std::string> colours{"red", "green", "white", "blue", "orange", "green", "orange", "black", "purple"};
