@@ -1,0 +1,3 @@
+C:/Users/Wridzer/Documents/c-advanced/Assignment 6 - Producer-consumer/cmake-build-debug/CMakeFiles/Assignment_6___Producer_consumer.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 6 - Producer-consumer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 6 - Producer-consumer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
