@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Child.cpp
+iostream
+-
+Child.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Child.h
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Child.h
+string
+-
+ostream
+-
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Parent.cpp
+iostream
+-
+Parent.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Parent.h
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Parent.h
+string
+-
+ostream
+-
+Child.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Child.h
+
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/main.cpp
+iostream
+-
+Parent.h
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/Parent.h
+

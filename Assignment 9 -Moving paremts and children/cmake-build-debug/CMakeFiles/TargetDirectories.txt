@@ -1,0 +1,3 @@
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/cmake-build-debug/CMakeFiles/ParentChildPtr.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 9 -Moving paremts and children/cmake-build-debug/CMakeFiles/rebuild_cache.dir
