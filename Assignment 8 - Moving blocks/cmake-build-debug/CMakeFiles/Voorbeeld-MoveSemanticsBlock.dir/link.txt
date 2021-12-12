@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Voorbeeld-MoveSemanticsBlock.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Voorbeeld-MoveSemanticsBlock.dir/objects.a @CMakeFiles\Voorbeeld-MoveSemanticsBlock.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -fno-elide-constructors -g -Wl,--whole-archive CMakeFiles\Voorbeeld-MoveSemanticsBlock.dir/objects.a -Wl,--no-whole-archive -o Voorbeeld-MoveSemanticsBlock.exe -Wl,--out-implib,libVoorbeeld-MoveSemanticsBlock.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Voorbeeld-MoveSemanticsBlock.dir\linklibs.rsp

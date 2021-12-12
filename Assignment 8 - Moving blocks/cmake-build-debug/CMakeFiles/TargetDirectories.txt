@@ -1,0 +1,3 @@
+C:/Users/Wridzer/Documents/c-advanced/Assignment 8 - Moving blocks/cmake-build-debug/CMakeFiles/Voorbeeld-MoveSemanticsBlock.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 8 - Moving blocks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wridzer/Documents/c-advanced/Assignment 8 - Moving blocks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
